@@ -37,8 +37,3 @@ In this project, I learned about the importance of HTTPS and how it works.
   configuration file that accepts encrypted SSL traffic for the subdomain
   `www.` on TCP port 443.
 
-## Authors :black_nib:
-**Carlos Barros** [Portfolio](https://carlosbarros.netlify.app/)
-                  [Github](https://github.com/cbarros7)
-                  [LinkdIn](https://www.linkedin.com/in/carlosbarros7/)
-                  [Tableau Public](https://public.tableau.com/profile/carlos.barros#!/?newProfile=&activeTab=0)
